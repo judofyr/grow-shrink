@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="600" height="250">
+  <style>
+    * { font-size: 24px; }
+  </style>
+  <rect width="100%" height="100%" fill="none" stroke="#000" />
+  <rect x="116.72" height="1.2em" width="283.28" fill="#c8e6c9" />
+  <text x="116.72" dy="21px">Hello world is a standard text</text>
+  <rect x="400" height="200px" width="200" fill="#FFCCBC" />
+</svg>
+
